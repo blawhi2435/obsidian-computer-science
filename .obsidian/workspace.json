@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "3ad83455d594f0eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "17314b1eefd5bae6",
+        "type": "split",
+        "children": [
+          {
+            "id": "34bee39fd8e05a67",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "37b2a3151aa0b183",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "side project/photography/功能.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "功能"
+                }
+              }
+            ]
+          },
+          {
+            "id": "859c00c849517e50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ba876c5ee3f94d1e",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "Mind Map of 功能"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68c023b61cde4244",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a85246c9a222192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9a9d9e3110d2eff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3996cbb70559d327",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c6343b5c055234ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e112412264ce315f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ae63393d00951f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8d3ebf6041c15cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "computer science/linux/Network.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Network"
+            }
+          },
+          {
+            "id": "d1725acf93fa9345",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "computer science/linux/Network.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Network"
+            }
+          },
+          {
+            "id": "75f7db872a0532da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aaf4bd1b68c71296",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e9a58393dd158aaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "computer science/linux/Network.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Network"
+            }
+          },
+          {
+            "id": "f7c4aeb4abc75af7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "9a98d5a90aeba7c8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "37b2a3151aa0b183",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "side project/photography/功能.md",
+    "side project/photography/Pain Points & Solutions.md",
+    "side project/photography/Disscussion.md",
+    "linux/Network.md",
+    "linux/File System.md",
+    "Screenshot 2025-12-22 at 5.27.48 PM.png",
+    "side project/photography/Untitled.canvas",
+    "2026-01-04.md",
+    "Untitled.base",
+    "Untitled.md",
+    "Screenshot 2025-12-25 at 7.47.43 PM.png",
+    "Linux.md",
+    "linux/Linux.md",
+    "computer science/linux/internet/Internet.md",
+    "computer science/linux/internet",
+    "linux",
+    "Side project/photography/功能.md",
+    "Side project/photography",
+    "computer science/Infrastructure",
+    "computer science",
+    "Bear/MySQL.md",
+    "side project/photography",
+    "side project",
+    "Bear/攜帶清單.md",
+    "Bear/攝影.md",
+    "Bear/side_projectwhispering市場調查.md",
+    "截圖 2021-10-16 上午10.24.45.png",
+    "Welcome - Illo 2.png",
+    "Organize@2x.jpg",
+    "Organize - Illo Copy 500001.png",
+    "Bear/Work faster and easier with Bear.md",
+    "Bear/Welcome to Bear 👋.md",
+    "Bear/Clean Code.md",
+    "Bear/Clean Architecture.md",
+    "Bear/Aperture.md",
+    "Bear/2023-03-29T070001Z.md",
+    "Bear/2023-05-17T053529Z.md",
+    "Bear/2023-03-28T080838Z.md",
+    "Bear/2021-12-15T052430Z.md",
+    "Bear/trash/Ubike企劃.md",
+    "Get Started - Keyboard 3.png",
+    "Get Started - Illo Copy 2.png",
+    "截圖 2021-10-18 下午7.32.38.png",
+    "截圖 2021-10-16 上午10.21.34.png",
+    "Bear/trash",
+    "Bear/archive"
+  ]
+}
