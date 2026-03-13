@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "side project/photography/Pain Points & Solutions.md",
+                "file": "side project/photography/docs/superpowers/specs/2026-03-13-photography-site-design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pain Points & Solutions"
+              "title": "2026-03-13-photography-site-design"
             }
           }
         ]
@@ -198,12 +198,22 @@
   },
   "active": "37b2a3151aa0b183",
   "lastOpenFiles": [
-    "side project/photography/Disscussion.md",
-    "side project/photography/Pain Points & Solutions.md",
-    "side project/photography/Potential Problems.md",
     "side project/photography/功能.md",
+    "side project/photography/docs/superpowers/specs/2026-03-13-photography-site-design.md.tmp.223058.1773396536390",
+    "side project/photography/docs/superpowers/specs/2026-03-13-photography-site-design.md.tmp.223058.1773396481726",
+    "side project/photography/docs/superpowers/specs/2026-03-13-photography-site-design.md.tmp.223058.1773396224843",
+    "side project/photography/docs/superpowers/specs/2026-03-13-photography-site-design.md.tmp.223058.1773395955597",
+    "side project/photography/docs/superpowers/specs/2026-03-13-photography-site-design.md.tmp.223058.1773395716373",
+    "side project/photography/Potential Problems.md",
+    "side project/photography/Pain Points & Solutions.md",
+    "side project/photography/功能.md.tmp.204982.1773374295368",
+    "side project/photography/功能.md.tmp.204982.1773374276142",
+    "side project/photography/功能.md.tmp.204982.1773374252161",
+    "side project/photography/功能.md.tmp.204982.1773374069441",
+    "side project/photography/docs/superpowers/specs/2026-03-13-photography-site-design.md",
+    "side project/photography/docs/superpowers/specs",
+    "side project/photography/Disscussion.md",
     "side project/photography/功能.backup.md",
-    "side project/photography/功能.md.tmp.187637.1773306602647",
     "Screenshot 2025-12-25 at 7.47.43 PM.png",
     "Screenshot 2025-12-22 at 5.27.48 PM.png",
     "Untitled.canvas",
@@ -211,20 +221,12 @@
     "linux/File System.md",
     "side project/photography/Untitled.canvas",
     "2026-01-04.md",
-    "Untitled.base",
     "Untitled.md",
     "Linux.md",
     "linux/Linux.md",
     "computer science/linux/internet/Internet.md",
-    "computer science/linux/internet",
-    "linux",
     "Side project/photography/功能.md",
-    "Side project/photography",
-    "computer science/Infrastructure",
-    "computer science",
     "Bear/MySQL.md",
-    "side project/photography",
-    "side project",
     "Bear/攜帶清單.md",
     "Bear/攝影.md",
     "Bear/side_projectwhispering市場調查.md",
@@ -239,12 +241,9 @@
     "Bear/Aperture.md",
     "Bear/2023-03-29T070001Z.md",
     "Bear/2023-05-17T053529Z.md",
-    "Bear/2023-03-28T080838Z.md",
-    "Bear/2021-12-15T052430Z.md",
     "Get Started - Keyboard 3.png",
     "Get Started - Illo Copy 2.png",
     "截圖 2021-10-18 下午7.32.38.png",
-    "截圖 2021-10-16 上午10.21.34.png",
-    "Bear/trash"
+    "截圖 2021-10-16 上午10.21.34.png"
   ]
 }
